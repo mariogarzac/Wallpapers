@@ -1,6 +1,6 @@
 <p align="center">
     WALLPAPERS
-  <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/logo.svg"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/logo.svg"/>
 </p>
 
 <p align="center">	
