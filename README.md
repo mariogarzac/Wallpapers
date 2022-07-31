@@ -1,5 +1,4 @@
 <p align="center">
-    WALLPAPERS
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/logo.svg"/>
 </p>
 
