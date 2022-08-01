@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/logo.svg"/>
 </p>
 
