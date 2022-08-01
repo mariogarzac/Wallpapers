@@ -1,8 +1,8 @@
-<p align="center"/>
+<p align="center">
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/logo.svg"/>
 </p>
 
-p align="center"
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/balcony.jpg" width="700"/>
 <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/diana.jpeg" width="700"/>
