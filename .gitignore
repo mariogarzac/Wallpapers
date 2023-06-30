@@ -1,3 +1,4 @@
 .tmp.driveupload/
 .DS_Store
 *.txt
+*.sh
