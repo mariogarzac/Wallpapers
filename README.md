@@ -3,7 +3,6 @@
 </p>
 
 <p align=center>
-
     <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/GBG_1.jpeg.jpg" width=700/>
     <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/GBG_2.jpeg.jpg" width=700/>
     <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/GBG_3.jpeg.jpg" width=700/>
@@ -22,6 +21,4 @@
     <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/train.jpeg.jpg" width=700/>
     <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/waves.png.jpg" width=700/>
     <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/wrong.jpeg.jpg" width=700/>
-
-
 </p>
