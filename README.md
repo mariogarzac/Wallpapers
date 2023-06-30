@@ -1,25 +1,19 @@
-    echo "<p align="center">" 
-    echo "    <img src=\"https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/logo.svg\"/>"
-    echo -e "</p>\n" 
-    echo -e "<p align="center">" 
+<p align=center>
+    <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/logo.svg"/>
+</p>
 
-    # loop over each wallpaper and write it to the file
-    for wp in GBG_1.jpeg
-GBG_2.jpeg
-GBG_3.jpeg
-TLG.jpeg
-hills.jpeg
-lucy_mocha.jpg
-rising.jpeg
-rocket.jpg
-space.png
-spongebob.jpg
-town.png
-train.jpeg
-wrong.jpeg
-    do 
-        echo "    <img src=\"https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/\" width="700"/>" 
-    done
-
-    # close p tag
-    echo "</p>" 
+<p align=center>
+    <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/GBG_1.jpeg" width=700/>
+    <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/GBG_2.jpeg" width=700/>
+    <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/GBG_3.jpeg" width=700/>
+    <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/TLG.jpeg" width=700/>
+    <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/hills.jpeg" width=700/>
+    <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/lucy_mocha.jpg" width=700/>
+    <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/rising.jpeg" width=700/>
+    <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/rocket.jpg" width=700/>
+    <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/space.png" width=700/>
+    <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/spongebob.jpg" width=700/>
+    <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/town.png" width=700/>
+    <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/train.jpeg" width=700/>
+    <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/wrong.jpeg" width=700/>
+</p>
