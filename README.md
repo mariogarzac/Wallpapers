@@ -9,7 +9,6 @@
     <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/TLG.jpeg" width=700/>
     <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/hills.jpeg" width=700/>
     <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/lucy_mocha.jpg" width=700/>
-    <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/lucy_tokyo.png" width=700/>
     <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/rising.jpeg" width=700/>
     <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/rocket.jpg" width=700/>
     <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/space.png" width=700/>
