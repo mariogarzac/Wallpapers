@@ -1,8 +1,8 @@
 <p align=center>
     <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/logo.svg"/>
--e </p>
+</p>
 
--e <p align=center>
+<p align=center>
     <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/aircraft.jpg" width=700/>
     <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/black.png" width=700/>
     <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/dune.jpg" width=700/>
