@@ -1,8 +1,8 @@
 <p align=center>
-    <img src="computer.png">
--e </p>
+    <img src="computer.png" width="500" height="300">
+</p>
 
--e <p align=center>
+<p align=center>
     <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/aircraft.jpg" width=700/>
     <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/bike.jpg" width=700/>
     <img src="https://raw.githubusercontent.com/mariogarzac/Wallpapers/main/walls/hills.jpeg" width=700/>
